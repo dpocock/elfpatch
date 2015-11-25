@@ -24,7 +24,7 @@
 # Dependencies:
 #
 # - tested with python 2.7 on Debian 7.0
-# - uses pyelftools from https://bitbucket.org/eliben/pyelftools
+# - uses pyelftools from https://github.com/eliben/pyelftools
 #
 # Usage:
 #
